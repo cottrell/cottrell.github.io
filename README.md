@@ -1,1 +1,1 @@
-nothing but [notebooks](https://cottrell.github.io/notebooks/)
+nothing but [notebooks](https://cottrell.github.io/notebooks/).
